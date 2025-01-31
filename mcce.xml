@@ -1,0 +1,11 @@
+<manifest>
+  <include name="default.xml" />
+
+  <remote fetch="https://github.com/petedyer11"
+          name="petedyer11" />
+
+  <project name="meta-mcce"
+           path="layers/meta-mcce"
+           remote="petedyer11"
+           revision="main" />
+</manifest>
